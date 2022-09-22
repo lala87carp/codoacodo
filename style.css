@@ -1,0 +1,33 @@
+header {
+    width: 100%;
+}
+
+body {
+    width: 100%;
+}
+
+#banner {
+    width: 100%;
+    background-color: #b6daf0;
+    color: #0e2b4c;
+}
+
+@media (min-width: 640px) /* medida para movil*/
+{
+    
+
+    #accesos-icon {
+        height: 20px;
+        color: #0e2b4c;
+    }
+}
+
+@media (min-width: 900px) /* medida para tablet*/
+{
+
+}
+
+@media (min-width: 1080px) /* medida para pc*/
+{
+
+}
