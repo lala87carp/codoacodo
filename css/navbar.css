@@ -31,6 +31,18 @@
     display: none;
 }
 
+header {
+        
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font: 40px;
+}
+
+header img{
+    width: 60px;
+}
+
 
 /* Configuraciones responsivas */
 @media screen and (max-width: 768px) {
@@ -59,6 +71,11 @@
         display: block;
         text-align: left;
     }
+
+    
+
+
 }
+    
 
 
